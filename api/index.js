@@ -3,7 +3,7 @@ import axios from 'axios';
 /**
  * API url
  */
-const apiUrl = 'https://api.themoviedb.org/3';
+const apiUrl = 'https://tmdb-proxy.fawesome.workers.dev';
 
 /**
  * Image url
